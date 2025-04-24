@@ -4,6 +4,7 @@ import sqlite3
 import locale
 
 class GestionFenetre:
+    """TEST"""
     def __init__(self, root):
         self.root = root
         self.root.title("Saisie des Quantités")
