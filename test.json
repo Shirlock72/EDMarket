@@ -1,0 +1,215 @@
+{
+    "timestamp": "2025-04-18T05:46:25Z",
+    "event": "Docked",
+    "StationName": "Lasswitz Plant",
+    "StationType": "CraterOutpost",
+    "Taxi": false,
+    "Multicrew": false,
+    "StarSystem": "Qinganu",
+    "SystemAddress": 5856557011650,
+    "MarketID": 3538503680,
+    "StationFaction": {
+        "Name": "Congressus Tenebris",
+        "FactionState": "CivilUnrest"
+    },
+    "StationGovernment": "$government_Corporate;",
+    "StationGovernment_Localised": "Corporation",
+    "StationServices": [
+        "dock",
+        "autodock",
+        "blackmarket",
+        "commodities",
+        "contacts",
+        "exploration",
+        "missions",
+        "outfitting",
+        "crewlounge",
+        "rearm",
+        "refuel",
+        "repair",
+        "tuning",
+        "engineer",
+        "missionsgenerated",
+        "facilitator",
+        "flightcontroller",
+        "stationoperations",
+        "powerplay",
+        "searchrescue",
+        "stationMenu",
+        "shop",
+        "livery",
+        "socialspace",
+        "bartender",
+        "vistagenomics",
+        "pioneersupplies",
+        "apexinterstellar",
+        "frontlinesolutions",
+        "registeringcolonisation",
+        "refinery"
+    ],
+    "StationEconomy": "$economy_Refinery;",
+    "StationEconomy_Localised": "Raffinage",
+    "StationEconomies": [
+        {
+            "Name": "$economy_Refinery;",
+            "Name_Localised": "Raffinage",
+            "Proportion": 1.000000
+        }
+    ],
+    "DistFromStarLS": 63.029721,
+    "LandingPads": {
+        "Small": 4,
+        "Medium": 4,
+        "Large": 4
+    }
+}
+
+{
+    "timestamp": "2025-04-18T05:41:26Z",
+    "event": "FSDJump",
+    "Taxi": false,
+    "Multicrew": false,
+    "StarSystem": "Qinganu",
+    "SystemAddress": 5856557011650,
+    "StarPos": [
+        149.50000,
+        12.62500,
+        -99.75000
+    ],
+    "SystemAllegiance": "Independent",
+    "SystemEconomy": "$economy_Refinery;",
+    "SystemEconomy_Localised": "Raffinage",
+    "SystemSecondEconomy": "$economy_Terraforming;",
+    "SystemSecondEconomy_Localised": "Terraformation",
+    "SystemGovernment": "$government_Corporate;",
+    "SystemGovernment_Localised": "Corporation",
+    "SystemSecurity": "$SYSTEM_SECURITY_low;",
+    "SystemSecurity_Localised": "Basse sécurité",
+    "Population": 151846,
+    "Body": "Qinganu",
+    "BodyID": 0,
+    "BodyType": "Star",
+    "JumpDist": 18.796,
+    "FuelUsed": 2.366502,
+    "FuelLevel": 61.499573,
+    "Factions": [
+        {
+            "Name": "Worker's Party of HIP 38235",
+            "FactionState": "Election",
+            "Government": "Communism",
+            "Influence": 0.083749,
+            "Allegiance": "Independent",
+            "Happiness": "$Faction_HappinessBand2;",
+            "Happiness_Localised": "Heureuse",
+            "MyReputation": 0.000000,
+            "ActiveStates": [
+                {
+                    "State": "Election"
+                }
+            ]
+        },
+        {
+            "Name": "Qinganu Galactic Commodities",
+            "FactionState": "None",
+            "Government": "Corporate",
+            "Influence": 0.035892,
+            "Allegiance": "Independent",
+            "Happiness": "$Faction_HappinessBand2;",
+            "Happiness_Localised": "Heureuse",
+            "MyReputation": 0.000000
+        },
+        {
+            "Name": "Qinganu Silver Mafia",
+            "FactionState": "None",
+            "Government": "Anarchy",
+            "Influence": 0.010967,
+            "Allegiance": "Independent",
+            "Happiness": "$Faction_HappinessBand2;",
+            "Happiness_Localised": "Heureuse",
+            "MyReputation": 0.000000
+        },
+        {
+            "Name": "Labour Union of Qinganu",
+            "FactionState": "Election",
+            "Government": "Communism",
+            "Influence": 0.083749,
+            "Allegiance": "Independent",
+            "Happiness": "$Faction_HappinessBand2;",
+            "Happiness_Localised": "Heureuse",
+            "MyReputation": 0.000000,
+            "ActiveStates": [
+                {
+                    "State": "Election"
+                }
+            ]
+        },
+        {
+            "Name": "Law Party of Qinganu",
+            "FactionState": "None",
+            "Government": "Dictatorship",
+            "Influence": 0.079761,
+            "Allegiance": "Independent",
+            "Happiness": "$Faction_HappinessBand2;",
+            "Happiness_Localised": "Heureuse",
+            "MyReputation": 0.000000
+        },
+        {
+            "Name": "Congressus Tenebris",
+            "FactionState": "CivilUnrest",
+            "Government": "Corporate",
+            "Influence": 0.681954,
+            "Allegiance": "Independent",
+            "Happiness": "$Faction_HappinessBand2;",
+            "Happiness_Localised": "Heureuse",
+            "MyReputation": 37.634998,
+            "RecoveringStates": [
+                {
+                    "State": "PublicHoliday",
+                    "Trend": 0
+                },
+                {
+                    "State": "Expansion",
+                    "Trend": 0
+                }
+            ],
+            "ActiveStates": [
+                {
+                    "State": "Boom"
+                },
+                {
+                    "State": "CivilUnrest"
+                }
+            ]
+        },
+        {
+            "Name": "Qinganu Blue Ring",
+            "FactionState": "None",
+            "Government": "Anarchy",
+            "Influence": 0.023928,
+            "Allegiance": "Independent",
+            "Happiness": "$Faction_HappinessBand2;",
+            "Happiness_Localised": "Heureuse",
+            "MyReputation": 0.000000
+        }
+    ],
+    "SystemFaction": {
+        "Name": "Congressus Tenebris",
+        "FactionState": "CivilUnrest"
+    },
+    "Conflicts": [
+        {
+            "WarType": "election",
+            "Status": "active",
+            "Faction1": {
+                "Name": "Worker's Party of HIP 38235",
+                "Stake": "",
+                "WonDays": 0
+            },
+            "Faction2": {
+                "Name": "Labour Union of Qinganu",
+                "Stake": "Stefansson Beacon",
+                "WonDays": 0
+            }
+        }
+    ]
+}
